@@ -1,4 +1,4 @@
-### Hi there, I'm [Suman Bogati](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Suman Bogati] 👋
 
 I am JavaScript developer more than 10 years experience.
 
