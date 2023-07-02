@@ -3,10 +3,10 @@
 I am JavaScript developer more than 10 years experience.
 
 **My Interest**:
-- Programming
+- Programming, table tennis, reading books
 
  **I am open to**:
-- Help learn programming
+- Help anyone to learn programming
 
 ## Skills:
 
